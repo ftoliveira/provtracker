@@ -6,26 +6,21 @@ Even after nearly two decades of the creation of the first botnet, the detection
 in comparing and reproducing such methods. This work proposes an architecture, implemented with SPARK as a high-performance data processing solution, together with VISTRAILS as a workflow management and data provenance solution, to address this comparability and reproducibility problem in a large-scale environment, as well as a tool, ProvTracker, to analyze and compare the methods
 results.
 
-You can use the [editor on GitHub](https://github.com/ftoliveira/provtracker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 Here you can download ProvTracker and test it with the provenance captured from our workflows.
 
-To install it, just download the ZIP file, unzip it and execute the commands bellow:
+We've tested with python >= 2.7.10 and pip installed.
+
+To install it, just download the ZIP file, unzip it and execute the commands bellow inside the directory just created:
 
 ```markdown
 
+# First install the requirements
+pip install -r requirements.txt
 
-# Header 1
-## Header 2
-### Header 3
+## Then start the http server
+python ProvTracker.py
 
-- Bulleted
-- List
+### The HTTP server will be started on port 5000
+On the browser, point to: http://localhost:5000
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
