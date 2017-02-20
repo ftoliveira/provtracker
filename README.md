@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to ProvTracker
+
+## Towards effective reproducible botnet detection methods through scientific workflow management systems
+
+Even after nearly two decades of the creation of the first botnet, the detection and mitigation of their attacks remain one of the biggest challenges faced by researchers and cyber-security professionals. Although there are numerous studies related to botnet detection, estimate how much one method is better than another is still an open problem, mainly because of the difficulty
+in comparing and reproducing such methods. This work proposes an architecture, implemented with SPARK as a high-performance data processing solution, together with VISTRAILS as a workflow management and data provenance solution, to address this comparability and reproducibility problem in a large-scale environment, as well as a tool, ProvTracker, to analyze and compare the methods
+results.
 
 You can use the [editor on GitHub](https://github.com/ftoliveira/provtracker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
