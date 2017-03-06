@@ -24,3 +24,25 @@ python ProvTracker.py
 On the browser, point to: http://localhost:5000
 
 ```
+
+We also provide some workflows examples and the Vistrails' modules developed.
+
+```markdown
+
+# First
+Download and install Vistrails: www.vistrails.org
+
+# Second
+Copy the folder "spark" to vistrails/packages directory
+
+# Third
+Open an example from Vistrails
+
+# You should install the paramiko python module in order to use this tool
+
+```
+
+## Soon, we will release a virtual machine image will all our experiment.
+
+Enjoy it!
+
