@@ -42,6 +42,8 @@ Open an example from Vistrails
 
 ```
 
+## In order to run the examples, it's necessary to start a Spark cluster.
+
 ## Soon, we will release a virtual machine image will all our experiment.
 
 Enjoy it!
